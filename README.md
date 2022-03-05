@@ -28,4 +28,5 @@ Horiseon index.html has been refractored to meet the following criteria:
 [Link to deployed appliation](https://emmazart.github.io/horiseon-index-refractor/#search-engine-optimization)
 
 Screenshot of deployed application:
-![Horiseon Title Page Screenshot](/assets/images/emmazart.github.io_horiseon-index-refractor_(1).png)
+
+![Horiseon Homepage Screenshot](/assets/images/screenshot-horiseon-index-refractor.png)
